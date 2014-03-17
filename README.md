@@ -1,3 +1,3 @@
-# Web Development | Tools that will make your life easier as a developer
+# Git and Github
 
-Slides from my talk on Aquinas University of Legazpi for the seminar-workshop on web development [Check out the live demo](http://files.mayonvolcanosoftware.com/web-development-talk/#/).
+Slides from my talk on Bicol IT tech talk 4 [Check out the live demo](http://files.mayonvolcanosoftware.com/git-slides/).
